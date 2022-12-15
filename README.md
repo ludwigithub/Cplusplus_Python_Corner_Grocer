@@ -7,7 +7,7 @@ In this project we were asked to utilize various programming languages to develo
 We were given starter code to help with the interaction between C++ and Python for functionality. We were tasked with creating this program that could communicate between C++ and Python, read and write from a file, sort and pull from list, and create a simple graph to represent data.
 
 # What did you do particularly well? 
-In this particular task I felt like I got an extra lesson in the fact that I didn't read very closely the first time I read the instructions. I had the tasks returning from Python when it should have been C++ and vice versa. I don't know if that would consitute doing it well but I accidentially learned how to get the outcome from both ways. 
+In this particular task I felt like I got an extra lesson in the fact that I didn't read very closely the first time I read the instructions. I had the tasks returning from Python when it should have been C++ and vice versa. I don't know if that would constitute doing it well but I accidentially learned how to get the outcome from both ways. 
 
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? 
 It seems like it worked better when I was returning the histogram from Python but that defeats the purpose of creating the written file and reading from it in C++. I am sure that will prove very useful in real world experience. 
